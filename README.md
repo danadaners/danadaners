@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Dana! 
 
-<!--
-**danadaners/danadaners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://page-views.glitch.me/badge?page_id=danadaners)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+__Currently Learning:__  Swift, d3, TypeScript
+
+## Here are some of my projects:
+
+### Planningo
+[Deployed Link](https://planningo.herokuapp.com/about)
+[Github](https://github.com/danadaners/Planningo)
+
